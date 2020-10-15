@@ -1,1 +1,1 @@
-# QuantitativeFin
+# Quantitative Finance programs
